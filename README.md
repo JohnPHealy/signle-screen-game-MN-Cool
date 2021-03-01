@@ -1,1 +1,1 @@
-# signle-screen-game-MN-Cool
+# Single-Screen-Game
