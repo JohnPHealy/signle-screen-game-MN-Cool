@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/SingleScreen.unity
+- path: C:/Users/mncoolno.1/OneDrive/Documents/GitHub/2d-template-MN-Cool/2DDemo/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
